@@ -3,4 +3,4 @@ test
 
 - feature-A
 - fixB
-- faeture-C
+- feature-C
